@@ -12,3 +12,5 @@ Live app link:
 https://st10063915-webapp.azurewebsites.net/index.aspx
 
 publish success screenshot attached.
+
+All screenshots and video located in vclearn.
